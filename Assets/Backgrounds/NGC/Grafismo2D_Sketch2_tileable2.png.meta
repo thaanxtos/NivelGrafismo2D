@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ee9901adb8ac1f44b99169c3acbc4763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8317433944381754837
+    second: Grafismo2D_Sketch2_tileable2_0
+  - first:
+      213: -5375289415887403853
+    second: Grafismo2D_Sketch2_tileable2_1
+  - first:
+      213: -6803264096099607498
+    second: Grafismo2D_Sketch2_tileable2_2
+  - first:
+      213: 6042625395078685249
+    second: Grafismo2D_Sketch2_tileable2_3
+  - first:
+      213: -3762374138191577924
+    second: Grafismo2D_Sketch2_tileable2_4
+  - first:
+      213: 6070088299964581585
+    second: Grafismo2D_Sketch2_tileable2_5
+  - first:
+      213: -8781716152828380228
+    second: Grafismo2D_Sketch2_tileable2_6
+  - first:
+      213: -2243858246565840410
+    second: Grafismo2D_Sketch2_tileable2_7
+  - first:
+      213: -8965385010271350005
+    second: Grafismo2D_Sketch2_tileable2_8
+  - first:
+      213: 9063962743780455435
+    second: Grafismo2D_Sketch2_tileable2_9
+  - first:
+      213: -6058437139336129584
+    second: Grafismo2D_Sketch2_tileable2_10
+  - first:
+      213: -9011086934126034642
+    second: Grafismo2D_Sketch2_tileable2_11
+  - first:
+      213: 4719908045542385798
+    second: Grafismo2D_Sketch2_tileable2_12
+  - first:
+      213: 2856096327000956899
+    second: Grafismo2D_Sketch2_tileable2_13
+  - first:
+      213: 4635262218181642892
+    second: Grafismo2D_Sketch2_tileable2_14
+  - first:
+      213: -6439640599432813781
+    second: Grafismo2D_Sketch2_tileable2_15
+  - first:
+      213: -5634562417925666481
+    second: Grafismo2D_Sketch2_tileable2_16
+  - first:
+      213: 1847519215568786484
+    second: Grafismo2D_Sketch2_tileable2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1075
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22795e25e9829c80800000000000000
+      internalID: -8317433944381754837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_1
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 810
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b44d1971c22765b0800000000000000
+      internalID: -5375289415887403853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 584
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c50de8953f591a0800000000000000
+      internalID: -6803264096099607498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 333
+        width: 428
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426b6818c7bbd350800000000000000
+      internalID: 6042625395078685249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 380
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc79fcb7ac59cbc0800000000000000
+      internalID: -3762374138191577924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 346
+        width: 237
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c4aae5294d3450800000000000000
+      internalID: 6070088299964581585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 435
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbba50cfa3112680800000000000000
+      internalID: -8781716152828380228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 336
+        width: 215
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9bc1f20d63cd0e0800000000000000
+      internalID: -2243858246565840410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_8
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 331
+        width: 260
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b031a2475dd849380800000000000000
+      internalID: -8965385010271350005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_9
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 354
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b860b71aa9cd70800000000000000
+      internalID: 9063962743780455435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 353
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d316df458b1ceba0800000000000000
+      internalID: -6058437139336129584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 335
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21014b1d2032f280800000000000000
+      internalID: -9011086934126034642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_12
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 329
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ef0b3c5b708140800000000000000
+      internalID: 4719908045542385798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_13
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 335
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef90372a74e2a720800000000000000
+      internalID: 2856096327000956899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_14
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8183cd62c35040800000000000000
+      internalID: 4635262218181642892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23af955efcc1a6a0800000000000000
+      internalID: -6439640599432813781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_16
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 76
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4946c685530ec1b0800000000000000
+      internalID: -5634562417925666481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grafismo2D_Sketch2_tileable2_17
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 72
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4349faf10f4b3a910800000000000000
+      internalID: 1847519215568786484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grafismo2D_Sketch2_tileable2_0: -8317433944381754837
+      Grafismo2D_Sketch2_tileable2_1: -5375289415887403853
+      Grafismo2D_Sketch2_tileable2_10: -6058437139336129584
+      Grafismo2D_Sketch2_tileable2_11: -9011086934126034642
+      Grafismo2D_Sketch2_tileable2_12: 4719908045542385798
+      Grafismo2D_Sketch2_tileable2_13: 2856096327000956899
+      Grafismo2D_Sketch2_tileable2_14: 4635262218181642892
+      Grafismo2D_Sketch2_tileable2_15: -6439640599432813781
+      Grafismo2D_Sketch2_tileable2_16: -5634562417925666481
+      Grafismo2D_Sketch2_tileable2_17: 1847519215568786484
+      Grafismo2D_Sketch2_tileable2_2: -6803264096099607498
+      Grafismo2D_Sketch2_tileable2_3: 6042625395078685249
+      Grafismo2D_Sketch2_tileable2_4: -3762374138191577924
+      Grafismo2D_Sketch2_tileable2_5: 6070088299964581585
+      Grafismo2D_Sketch2_tileable2_6: -8781716152828380228
+      Grafismo2D_Sketch2_tileable2_7: -2243858246565840410
+      Grafismo2D_Sketch2_tileable2_8: -8965385010271350005
+      Grafismo2D_Sketch2_tileable2_9: 9063962743780455435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
