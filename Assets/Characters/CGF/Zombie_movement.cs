@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Zombie_movement : MonoBehaviour
 {
-    int speed = 5;
+    int speed = 10;
 
     void Update()
     {
